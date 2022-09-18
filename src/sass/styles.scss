@@ -1,0 +1,31 @@
+//DELETE ALL STYLES WHEN YOU WANT TO USE.
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Raleway:wght@100&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-weight: normal;
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  width: 90%;
+  margin: 5em auto;
+
+  span {
+    font-size: 25px;
+    font-family: "Raleway", sans-serif;
+
+    a {
+      font-size: 22px;
+      font-family: "Raleway", sans-serif;
+      color: blue;
+    }
+  }
+}
